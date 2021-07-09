@@ -1,0 +1,182 @@
+---
+title: "resume"
+author: "Wenwei Fei"
+date: "29/05/2021"
+output: 
+  pagedown::html_resume:
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> wenwei.fei@outlook.com
+- <i class="fa fa-linkedin"></i> [wenwei-fei-tim](https://www.linkedin.com/in/wenwei-fei-tim/)
+- <i class="fa fa-phone"></i> 0416898866
+- <i class="fa fa-github"></i> [github.com/wwfeitim](https://github.com/wwfeitim)
+
+
+Skills {#skills}
+------------------------------------
+
+- <i class="fa fa-circle"></i> Experienced in actuarial analysis, statistical analysis, and statistical models
+- <i class="fa fa-circle"></i> Highly skilled in R, LaTeX, and Excel
+- <i class="fa fa-circle"></i> Experienced in team work, and leadership philosophy
+- <i class="fa fa-circle"></i> Web scraping, rvest and rselenium
+
+Disclaimer
+------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+====================================================
+
+Wenwei Fei (Tim) {#title}
+----------------------------------------------------
+
+Data analysis is the ultimate interest that I discovered through my former career. It was the motivation that encouraged me to study actuarial science and econometric at MONASH University. In the university, I felt joy and never tired of learning and using the Excel and R to completed assignments and my independent researches. R and Excel also assist me of solving daily issues in respect of property rent, independent demography researches via ABS census data, and other interesting fields. 
+
+Education {data-icon=user-graduate}
+----------------------------------------------------
+
+### Monash University
+
+Bachelor of Commerce, Actuarial Studies
+
+Clayton, VIC
+
+2021
+
+- GPA 2.88
+
+### Monash College
+
+Diploma of Business
+
+Clayton, VIC
+
+2018
+
+- High Distinction
+
+Work Experience {data-icon=briefcase}
+--------------------------------------------------------------------------------
+
+### Data Analyst Intern
+
+CFOWorx
+
+Richmond, VIC
+
+01/2021 - 02/2021
+
+- Learned and applied the financial and accounting knowledge through analysing MYOB and XERO reports 
+- Analyzed financial reports towards building KPIs to fit companies requirements in multiple industries
+- Generated financial models for companies in multiple industries
+- Played role as a leader by managed schedule and assigned work to team members 
+- Managed cash flows records refer to multiple currency and countries in order to deliver thorough business summary
+
+### Academic Tutor
+
+MonkeyKing Education 
+
+Malvern, VIC
+
+2019 - 2020 
+
+- Prepared detailed and clear lesson plans for both interim and revision class 
+- Developed outstanding planning and organizing skills through delivering over 100 hours of lessons including face to face and zoom meeting
+- Further developed interpersonal and communication skills with colleagues, students, and parents
+
+### Motor Technician
+
+Bega Valley Motor Group
+
+Bega, NSW 
+
+2015 - 2017
+
+- Solved vehicle problems and diagnosed electronic symptoms
+- Tested new vehicle accessory and developed installation process
+- Generated professional Vehicle inspection report 
+
+
+Volunteer Experience {data-icon=handshake}
+--------------------------------------------------------------------------------
+
+### Student leadership program
+
+Monash College
+
+Clayton, VIC 
+
+01/2019 - 07/2019
+
+- Guided new students and parents via university tour 
+- Introduced living and studying experience to international students 
+- Leaned and practised servant leadership theory via assisting tutors and students in activities including BBQ breakfast and orientation day
+
+### Industry and Alumni Program
+
+Monash University
+
+Clayton, VIC 
+
+2020
+
+- Developed communication and resume writing skills
+- Optimized unit selection towards soft skills focus: communication and leadership philosophy
+- Received advice from financial experts in respect of industry hot spots, principles teamwork, and career development
+
+
+Licenses & Certifications {data-icon=stamp}
+--------------------------------------------------------------------------------
+
+### Google Analytics for Beginners 
+
+Google Analytics Academy 
+
+N/A
+
+2020
+
+
+### Xero Advisor Certification
+
+Xero 
+
+N/A
+
+2021
+
+
+### Excel Skills for Business
+
+Macquarie University
+
+N/A
+
+2021
+
+
+
+
+
+
+
+
+
+
+
+
+
